@@ -1,5 +1,4 @@
 # hello-world
 My First Repository
 
-Valar morghulis
-Valar dohaeris
+Very exciting stuff
